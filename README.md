@@ -1,8 +1,27 @@
-# React + Vite
+Redux-toolkit-ecommerce-project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Overview
 
-Currently, two official plugins are available:
+This is a Redux-toolkit-ecommerce-project shopping website that provides a wide range of features for online shopping. It includes product listings, a shopping cart, order placement, and filtering options for products.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+. Product Listings:
+
+    Top Wear Products
+    Bottom Wear Products
+    Phones and Laptops
+
+. Shopping Cart Functionality:
+
+    Add products to the cart
+    Adjust product quantity
+    Dynamic total amount calculation  
+
+. Product Filtering:
+
+    Filter products by category (e.g., phones, laptops)
+    Brand-based filtering for certain categories
+
+
+
+
